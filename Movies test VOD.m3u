@@ -1,0 +1,14 @@
+﻿#EXTM3U
+
+#EXTINF:0, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Ant Man And The Wasp"  group-title="Movies",Ant Man And The Wasp
+https://openload.co/stream/GUodXBVAqC8~1539299112~2.29.0.0~njvtoclS?mime=true
+
+#EXTINF:0, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Venom"  group-title="Movies",Venom
+https://str20.vidoza.net/x4lfrskfonzpvjumxabuwscnvzjuurretfugjbqttnxjzeicxv444zmkq3ra/v.mp4
+
+#EXTINF:0, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="The Nun"  group-title="Movies",The Nun
+https://streamango.com/v/d/bsqmlrcaqfroltbf~1539299398~2.29.0.0~11E-BWIk/600
+
+#EXTINF:0, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="The Predator (480p)"  group-title="Movies",The Predator (480p)
+https://streamango.com/v/d/fpdnbpsdebtqafdq~1539299441~2.29.0.0~Onc07XtT/304
+
