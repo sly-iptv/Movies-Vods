@@ -1,10 +1,10 @@
 ﻿#EXTM3U
 
 #EXTINF:0, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="TEST TEST TEST"  group-title="Movies",TEST TEST TEST TEST
-https://streamango.com/f/ksnsdpordcnqrrnl/test_mp4
+https://streamango.com/v/d/ksnsdpordcnqrrnl~1540554532~2.29.0.0~QpmDgZfA/720
 
-#EXTINF:0, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Venom"  group-title="Movies",Venom
-https://str20.vidoza.net/x4lfrskfonzpvjumxabuwscnvzjuurretfugjbqttnxjzeicxv444zmkq3ra/v.mp4
+#EXTINF:0, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="TRAILER TEST"  group-title="Movies",TRAILER TEST
+https://soursop.fruithosted.net/dl/n/XxTHzJcQWnhPa6Ih/ksnsdpordcnqrrnl/AcZvAQPsjCapSFS7_oTMSu5tal6eskpnA3or6WnzIw6XxHWzqn9dtvzvxJ2qiuqtLhwFfSq_orcZT7spMCNgCRq5ry_ZtAz34O45UdS82RJc1dThnIrYeiePL49kyyPlrpvEI7b6pzeK8Cc16mPGQN8GHwKprNC4-HhV4tH9tY9Pp5VW2HyerPs8roLT7YIsM62cA3EoHb4NNxTtyRl2TYHW7I0nByIYQ6e1lBulsiv87_GDidy4kne3Nj8cZNSgYVhZNEMU5VicPYQKAI00trXscj2ii0Aw3_wz3LKuUmjAeaR1WvK6nMCBrJb78vZnIQ65GHE94sTJPDaxx6rDA0cmlEJQ0zT3mIFT_peTIsaEcbF_-LbCdge35-vLWCV-qzaK7Mqmi5GRNqNgGM96ww/test.mp4
 
 #EXTINF:0, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="The Nun"  group-title="Movies",The Nun
 https://streamango.com/v/d/bsqmlrcaqfroltbf~1539299398~2.29.0.0~11E-BWIk/600
