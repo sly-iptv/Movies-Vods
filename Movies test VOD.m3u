@@ -1,19 +1,19 @@
 ﻿#EXTM3U
 
-#EXTINF:0, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="TEST TEST TEST"  group-title="Movies",TEST TEST TEST TEST
+#EXTINF:0, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="TEST TEST TEST TEST"  group-title="Movies",TEST TEST TEST TEST
 https://streamango.com/v/d/ksnsdpordcnqrrnl~1540554532~2.29.0.0~QpmDgZfA/720
 
 #EXTINF:0, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="TRAILER TEST"  group-title="Movies",TRAILER TEST
 https://soursop.fruithosted.net/dl/n/XxTHzJcQWnhPa6Ih/ksnsdpordcnqrrnl/AcZvAQPsjCapSFS7_oTMSu5tal6eskpnA3or6WnzIw6XxHWzqn9dtvzvxJ2qiuqtLhwFfSq_orcZT7spMCNgCRq5ry_ZtAz34O45UdS82RJc1dThnIrYeiePL49kyyPlrpvEI7b6pzeK8Cc16mPGQN8GHwKprNC4-HhV4tH9tY9Pp5VW2HyerPs8roLT7YIsM62cA3EoHb4NNxTtyRl2TYHW7I0nByIYQ6e1lBulsiv87_GDidy4kne3Nj8cZNSgYVhZNEMU5VicPYQKAI00trXscj2ii0Aw3_wz3LKuUmjAeaR1WvK6nMCBrJb78vZnIQ65GHE94sTJPDaxx6rDA0cmlEJQ0zT3mIFT_peTIsaEcbF_-LbCdge35-vLWCV-qzaK7Mqmi5GRNqNgGM96ww/test.mp4
 
-#EXTINF:0, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="The Nun"  group-title="Movies",The Nun
-https://streamango.com/v/d/bsqmlrcaqfroltbf~1539299398~2.29.0.0~11E-BWIk/600
+#EXTINF:0, tvg-id="New EPG" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/9a/Now_You_See_Me_2_poster.jpg/220px-Now_You_See_Me_2_poster.jpg" tvg-name="Now You See Me 2"  group-title="Movies",Now You See Me 2
+https://17wy0w8.oloadcdn.net/dl/l/I8H2faH4CvnkoIQq/zdMkILpCdNY/Now+You+See+Me+2.2016.HD+1080p.mp4?mime=true
 
-#EXTINF:0, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="The School 2018 b"  group-title="Movies",The School 2018
+#EXTINF:0, tvg-id="New EPG" tvg-logo="https://i.pinimg.com/originals/a4/32/c0/a432c0e04bb1eb379e4e1fec0b30de42.jpg" tvg-name="The School 2018"  group-title="Movies",The School 2018
 https://1fjiw5i.oloadcdn.net/dl/l/SZ7F9kc_iU_ohTtg/ZQgIhVNAaZY/The.School.2018.BDRip.XviD.AC3-EVO%5BEtMovies%5D.avi.mp4?mime=true
 
-#EXTINF:0, tvg-id="New EPG" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjI4MjQ3MjI5MV5BMl5BanBnXkFtZTgwNjczMDE4NTM@._V1_.jpg" tvg-name="Johnny English Strikes Again"  group-title="Movies",Johnny English Strikes Again
-https://streamango.com/v/d/aloodkssedkmeees~1539301440~2.29.0.0~6B8N1m56/544
+#EXTINF:0, tvg-id="New EPG" tvg-logo="https://cdn.shopify.com/s/files/1/0992/5008/products/PRECIOUS-CARGO_large.jpg?v=1527044515" tvg-name="Precious Cargo 2016"  group-title="Movies",Precious Cargo 2016
+https://oqbkiy.oloadcdn.net/dl/l/dzu8FlZHOMWkb9mE/1SKJ2tcjQF8/Precious.Cargo.2016.LIMITED.BDRip.x264-DEPTH.mkv.mp4?mime=true
 
 #EXTINF:0, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="A Star Is Born"  group-title="Movies",A Star Is Born
 https://streamango.com/v/d/eedopcfcckqdqslk~1539302196~2.29.0.0~Ge5xhdDJ/536
@@ -34,7 +34,7 @@ https://streamango.com/v/d/pepltonlmfsrbmda~1539302383~2.29.0.0~bs1mDbX8/532
 https://str20.vidoza.net/x4lfrs2eonzpvjumxacewqst4lyk3pnc7zdvfijhzvk6ip4sd522m2uerm3q/v.mp4
 
 #EXTINF:0, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="2.Guts"  group-title="The Walking Dead Season 1",2.Guts
-h
+Group N/A
 
 #EXTINF:0, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="conor mcgregor vs khabib"  group-title="PPV REPEATS",conor mcgregor vs khabib
 https://openload.co/stream/yWlw1-uXPME~1539303687~2.29.0.0~orhZVrxH?mime=true
