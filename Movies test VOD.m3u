@@ -1,7 +1,7 @@
 ﻿#EXTM3U
 
-#EXTINF:0, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Ant Man And The Wasp"  group-title="Movies",Ant Man And The Wasp
-https://openload.co/stream/GUodXBVAqC8~1539299112~2.29.0.0~njvtoclS?mime=true
+#EXTINF:0, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="TEST TEST TEST"  group-title="Movies",TEST TEST TEST TEST
+https://streamango.com/f/ksnsdpordcnqrrnl/test_mp4
 
 #EXTINF:0, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Venom"  group-title="Movies",Venom
 https://str20.vidoza.net/x4lfrskfonzpvjumxabuwscnvzjuurretfugjbqttnxjzeicxv444zmkq3ra/v.mp4
